@@ -1,1 +1,1 @@
-# lucy.github.io
+# dailylucy.github.io
