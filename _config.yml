@@ -107,9 +107,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "k1ndS2"
+  name             : "Lucy"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "보안과 개발을 공부하는 학생입니다. 공부한 내용을 기록해보려구요."
   location         : "Seoul, Korea"
   email            :
   links:
