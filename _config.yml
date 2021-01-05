@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Lucy"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "보안과 개발을 공부하는 학생입니다. 공부한 내용을 기록해보려구요."
+  bio              : "안녕하세요:-) 저는 개발과 보안을 공부하는 학생입니다. 이 곳은 제가 공부한 내용을 기록하는 공간입니다."
   location         : "Seoul, Korea"
   email            :
   links:
